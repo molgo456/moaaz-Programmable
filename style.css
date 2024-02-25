@@ -40,4 +40,5 @@ header ul li a:hover ,.active{
 }
 div {
     text-align: center;
+    direction: rtl;
 }
